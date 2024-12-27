@@ -41,7 +41,6 @@ Nyxie, Stixyie tarafından geliştirilen gelişmiş bir Protogen AI chatbot'udur
 - Python 3.8 veya üzeri 🐍
 - Telegram Bot Token 🤖
 - Google Gemini API Key 🌟
-- Google Cloud Vision API Key (isteğe bağlı) 👁️
 
 ## 🔧 Kurulum 🚧
 

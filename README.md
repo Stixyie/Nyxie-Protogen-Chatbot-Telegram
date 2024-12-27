@@ -88,7 +88,7 @@ python bot.py
 
 ## 📄 Lisans 📜
 
-MIT Lisansı altında dağıtılmaktadır. Detaylar için `LICENSE` dosyasına bakın. ⚖️
+GPL-3.0 Lisansı altında dağıtılmaktadır. Detaylar için `LICENSE` dosyasına bakın. ⚖️
 
 ## 👥 İletişim 📞
 

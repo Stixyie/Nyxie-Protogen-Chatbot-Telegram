@@ -10,7 +10,7 @@ Nyxie, Stixyie tarafından geliştirilen gelişmiş bir Protogen AI chatbot'udur
 - Otomatik dil algılama 🕵️‍♀️
 - Kullanıcının dilinde yanıt verme yeteneği 🌍
 - Esnek dil yönetimi 🔄
-Not: Dilerseniz, dil değiştirme yetenegini kullanabilirsiniz sadece bota şu dili konuş deyin mesela hey nyxie türkçe konuş benimle ve türkçe konuşacaktır devamlı sizinle.
+- Not: Dilerseniz, dil değiştirme yetenegini kullanabilirsiniz sadece bota şu dili konuş deyin mesela hey nyxie türkçe konuş benimle ve türkçe konuşacaktır devamlı sizinle.
 
 ### 2. Gelişmiş Bellek Yönetimi 🧠💾
 - Kullanıcı başına maksimum 1 milyon token 📊
